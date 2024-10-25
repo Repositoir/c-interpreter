@@ -35,6 +35,7 @@ Currently, the following functions work:
 ### Small TODOs:
 
 - Make termination valid in SCRIPT mode.
+- Create a proper parser replacing `sampleParse()` in `runtime.c`.
 - Accommodate `$` prefixed vars.
 
 ### Large TODOs:
