@@ -1,4 +1,7 @@
 *.txt
+*.exe
+
+output
 
 /cmake-build-debug-wsl-clang/
 /cmake-build-debug-wsl-gcc/
