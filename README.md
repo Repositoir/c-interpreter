@@ -1,7 +1,15 @@
-# Cint
+# Lisp in C
 
-This is a prototype of a programming language similar to that of python and is
-dynamically typed and interpreted.
+Lisp in C (pronounced Lye-sp) is a tribute to ANSI Common Lisp but
+without the object-oriented or functional features. This is a dynamically typed and interpreted language. It is however, still a work-in-progress.
+Check out the TODOs below.
+
+> The only exception to the CMake configuration is the `TESTONLY.c` file which
+> utilises the `mpc.c` Micro Parser Combinator Library. The remaining files utilise self-written code or code from [BYOL](https://www.buildyourownlisp.com/). 
+
+> **Linguistics Notes** : This language, as of now, has no defined formal grammar but rather imitates that of the `bash` command language with
+> modified keywords.
+
 
 ## Instructions
 
